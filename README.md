@@ -79,6 +79,53 @@
 <p>DevOps is inherently challenging, and I encountered numerous hurdles—from setting up Kubernetes to troubleshooting containerization issues and configuring CI/CD pipelines. Each challenge taught me valuable troubleshooting skills and enriched my understanding of system configurations and optimizations.</p>
 
 
+# Blog Summaries
+
+## Blog 2: **A Beginner’s Guide to K3s: Lightweight Kubernetes for Modern DevOps**
+<h2>A Beginner’s Guide to K3s: Lightweight Kubernetes for Modern DevOps</h2>
+<p><strong>By Talha Ahmed</strong> | <em>4 min read - Oct 13, 2024</em></p>
+
+<h3>Introduction</h3>
+<p>Kubernetes is widely used in the cloud, but for smaller environments, full Kubernetes may be excessive. <strong>K3s</strong> offers a lightweight, production-grade Kubernetes distribution designed for resource-constrained setups such as IoT, small clouds, and home labs. This guide explores the fundamentals of K3s, its benefits, and a step-by-step setup process.</p>
+
+<h3>What is K3s?</h3>
+<p>K3s is a streamlined Kubernetes distribution by Rancher Labs, tailored for smaller teams and environments. Key features include:</p>
+<ul>
+    <li><strong>Lightweight:</strong> A single binary under 100MB.</li>
+    <li><strong>Fast Startup:</strong> Optimized for speed, ideal for development and testing.</li>
+    <li><strong>Simplified:</strong> Uses SQLite as a data store, with the option for etcd.</li>
+</ul>
+
+<h3>Why Use K3s?</h3>
+<p>K3s is ideal for:</p>
+<ul>
+    <li>Edge and IoT devices</li>
+    <li>Developers needing quick clusters without heavy infrastructure</li>
+    <li>Home labs on low-powered devices (e.g., Raspberry Pi)</li>
+</ul>
+
+<h3>Setting Up a K3s Cluster</h3>
+<p>Setting up K3s is straightforward. Here’s a simplified process:</p>
+<ol>
+    <li><strong>Single-Node Installation:</strong> Run a simple installation script and verify the node status with <code>kubectl get nodes</code>.</li>
+    <li><strong>Multi-Node Cluster:</strong> Install K3s on a master node, then connect worker nodes using a token from the master node.</li>
+</ol>
+
+<h3>Deploying an Application on K3s</h3>
+<p>To deploy applications, create a deployment (e.g., Nginx), expose it as a service, and access it via the load balancer.</p>
+
+<h3>Common Commands</h3>
+<p>Handy K3s commands:</p>
+<ul>
+    <li><strong>Cluster info:</strong> <code>kubectl cluster-info</code></li>
+    <li><strong>Node status:</strong> <code>kubectl get nodes</code></li>
+    <li><strong>Pod status:</strong> <code>kubectl get pods --all-namespaces</code></li>
+    <li><strong>Restart service:</strong> <code>sudo systemctl restart k3s</code></li>
+</ul>
+
+<h3>Conclusion</h3>
+<p>K3s provides an efficient alternative to full-scale Kubernetes, suitable for lightweight deployments on resource-limited systems. With its simplicity and scalability, K3s is perfect for cloud, edge, and small-scale setups. Try K3s, and experience a streamlined Kubernetes environment!</p>
+
 <!-- BLOG-POST-LIST:END -->
 ---
 
