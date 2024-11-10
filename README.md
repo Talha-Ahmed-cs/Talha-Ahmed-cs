@@ -43,61 +43,57 @@
 
 ### <img src = "https://media1.giphy.com/media/JZ40cnfnN11KycrvMF/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = '23' /> DevOps Journey 2024: My Path and Contributions
 <!-- BLOG-POST-LIST:START -->
+<h2>Introduction</h2>
+<p>When I began my journey into DevOps, I had little experience with essential tools like GitHub Actions, Kubernetes, and Infrastructure as Code (IaC). However, as I advanced through my studies and hands-on projects, I found DevOps to be transformative. It has enriched my technical skillset, deepened my understanding of modern software practices, and enabled me to bridge development and operations effectively.</p>
 
+<h2>My Journey So Far</h2>
 
-Introduction
+<h3>Early Stages: Building a DevOps Foundation</h3>
+<p>Initially, my grasp of DevOps was limited, and I didn’t fully appreciate the value of automation, collaboration, or continuous integration/continuous deployment (CI/CD) pipelines. As I moved forward, I quickly discovered how DevOps principles could optimize workflows, enhance productivity, and enable seamless, reliable deployments.</p>
+<p>A significant milestone in my journey was gaining proficiency with GitHub Actions. Although intimidating at first, I learned to automate various tasks and manage deployments directly from GitHub. It quickly became a central tool in my development workflow.</p>
 
-Starting my journey into DevOps was both challenging and transformative. Coming from limited knowledge of tools like GitHub Actions, Kubernetes, and infrastructure as code (IaC), I initially felt overwhelmed. However, this learning experience has equipped me with a versatile set of skills, deepened my grasp of software development, and empowered me to bridge development and operations efficiently through hands-on projects.
+<h3>Key Projects and Practical Experience</h3>
 
-The Early Days: Introduction to DevOps
+<ul>
+    <li>
+        <strong>Deploying My Final Year Project with GitHub Actions</strong>
+        <p>One of my most rewarding experiences was deploying my final year project, <em>Detecting Hallucinations in Large Language Models (LLMs)</em>, using GitHub Actions. This project involved intricate machine learning workflows, which made a reliable CI/CD pipeline essential.</p>
+        <p>By using GitHub Actions, I could automate testing, leverage Docker for containerization, and deploy updates with ease, ultimately boosting both the project’s efficiency and reliability.</p>
+    </li>
+    <li>
+        <strong>Ongoing Project: Deploying a Web Application with GitHub Tools</strong>
+        <p>Currently, I am deploying a new web application with GitHub’s automation tools, further refining my understanding of deployment pipelines. This project is helping me strengthen my skills across the different stages of the DevOps lifecycle.</p>
+    </li>
+</ul>
 
-In the beginning, my understanding of DevOps was basic. I hadn’t yet realized how impactful automation, collaboration, and CI/CD pipelines could be in streamlining workflows and achieving consistent, high-quality deployments. As I progressed, however, the power of these principles became clear. I quickly learned how DevOps practices could improve both productivity and reliability, which ignited my enthusiasm for this field.
+<h2>Skills and Knowledge Acquired</h2>
 
-One of my first significant milestones was mastering GitHub Actions. Although it was daunting initially, I soon learned to leverage it for task automation and seamless deployments, becoming an essential tool in my workflow.
+<h3>1. Kubernetes</h3>
+<p>I now have a solid grasp of <strong>Kubernetes</strong>, including the deployment and management of applications in containerized environments. Kubernetes offers powerful orchestration capabilities, allowing for efficient scaling and high availability of complex applications.</p>
 
-Projects and Practical Experience
+<h3>2. Knative</h3>
+<p>Working with Knative introduced me to serverless deployments on Kubernetes. This tool simplifies the deployment of containerized applications and enables event-driven scaling, which is particularly beneficial for applications with fluctuating demand.</p>
 
-    Final Year Project Deployment with GitHub Actions
+<h3>3. Terraform</h3>
+<p><strong>Terraform</strong> has been instrumental in my understanding of Infrastructure as Code (IaC). By defining infrastructure in a declarative format, I can easily manage, share, and version-control my configurations, allowing for a more streamlined approach to infrastructure setup.</p>
 
-    Deploying my final year project, Language Model Hallucination Detection, using GitHub Actions was a key achievement. Given the project’s complexity, a reliable CI/CD pipeline was essential to managing its machine learning workflows effectively. With GitHub Actions, I was able to automate testing, integrate Docker for containerization, and deploy updates efficiently, greatly enhancing the overall reliability and ease of maintenance.
+<h3>4. Docker and Containerization</h3>
+<p>Docker has become a cornerstone of my DevOps journey, helping me containerize applications for consistency and portability across environments. Using Docker with Kubernetes, I’ve been able to deploy complex, scalable applications seamlessly.</p>
 
-    Current Project: Web Application Deployment via GitHub
+<h3>5. GitHub Actions</h3>
+<p>GitHub Actions has been a critical tool for automating workflows, from automated testing to deploying updates. It has allowed me to streamline repetitive tasks, maintain consistency, and focus more on development.</p>
 
-    I'm now working on deploying a web application using GitHub's DevOps tooling. This project has provided invaluable experience with deployment pipelines and further honed my automation skills, giving me a hands-on understanding of the full DevOps lifecycle.
+<h2>Challenges and Solutions</h2>
+<p>DevOps is inherently challenging, and I encountered numerous hurdles—from setting up Kubernetes to troubleshooting containerization issues and configuring CI/CD pipelines. Each challenge taught me valuable troubleshooting skills and enriched my understanding of system configurations and optimizations.</p>
 
-Skills and Knowledge Acquired
+<h2>Future Goals</h2>
+<p>Looking ahead, I am excited to expand my expertise in DevOps. My goals include:</p>
+<ul>
+    <li>Pursuing certifications like the <em>Kubernetes and Cloud Native Associate (KCNA)</em> to formally validate my skills.</li>
+    <li>Exploring advanced areas, such as monitoring and observability, service mesh integrations, and cloud-native security.</li>
+    <li>Contributing to open-source projects and actively engaging with the DevOps community to learn, share insights, and stay updated on industry trends.</li>
+</ul>
 
-    Kubernetes
-
-    I’ve gained a strong foundation in Kubernetes, learning to manage and deploy containerized applications across scalable environments. The orchestration capabilities of Kubernetes have proven essential in managing complex applications with high availability.
-
-    Knative
-
-    My experience with Knative has shown me the power of serverless deployments within Kubernetes, simplifying containerized app deployment and enabling dynamic, event-driven scaling—especially valuable for apps with varying demand.
-
-    Terraform
-
-    Through Terraform, I’ve embraced the concept of Infrastructure as Code (IaC), allowing me to define and manage infrastructure configurations in a way that’s efficient and version-controlled.
-
-    Docker and Containerization
-
-    Docker has been pivotal in my journey, giving me the skills to containerize applications for portability and consistency. Combining Docker with Kubernetes has enabled me to manage and scale applications across various environments seamlessly.
-
-    GitHub Actions
-
-    GitHub Actions has been fundamental to my work, enabling workflow automation across a range of repetitive tasks. Automating these tasks has ensured consistency, allowing me to focus on more strategic development activities.
-
-Challenges and Solutions
-
-DevOps brings its share of challenges, and I’ve encountered numerous hurdles, from setting up Kubernetes to troubleshooting container issues and configuring CI/CD pipelines. Each obstacle, however, has sharpened my troubleshooting skills and enhanced my understanding of system optimizations.
-
-Future Goals
-
-Looking ahead, I’m eager to continue my journey by:
-
-    Pursuing certifications like the Kubernetes and Cloud Native Associate (KCNA) to further validate my skills.
-    Diving deeper into advanced areas such as monitoring and observability, service mesh integrations, and cloud-native security.
-    Contributing to open-source projects and engaging with the DevOps community to both learn from and contribute to industry insights
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [... view more](https://apoorvtyagi.tech/)
