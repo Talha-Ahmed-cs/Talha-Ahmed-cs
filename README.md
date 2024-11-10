@@ -69,25 +69,15 @@
 <h3>2. Knative</h3>
 <p>Working with Knative introduced me to serverless deployments on Kubernetes. This tool simplifies the deployment of containerized applications and enables event-driven scaling, which is particularly beneficial for applications with fluctuating demand.</p>
 
-<h3>3. Terraform</h3>
-<p><strong>Terraform</strong> has been instrumental in my understanding of Infrastructure as Code (IaC). By defining infrastructure in a declarative format, I can easily manage, share, and version-control my configurations, allowing for a more streamlined approach to infrastructure setup.</p>
-
-<h3>4. Docker and Containerization</h3>
+<h3>3. Docker and Containerization</h3>
 <p>Docker has become a cornerstone of my DevOps journey, helping me containerize applications for consistency and portability across environments. Using Docker with Kubernetes, I’ve been able to deploy complex, scalable applications seamlessly.</p>
 
-<h3>5. GitHub Actions</h3>
+<h3>4. GitHub Actions</h3>
 <p>GitHub Actions has been a critical tool for automating workflows, from automated testing to deploying updates. It has allowed me to streamline repetitive tasks, maintain consistency, and focus more on development.</p>
 
 <h2>Challenges and Solutions</h2>
 <p>DevOps is inherently challenging, and I encountered numerous hurdles—from setting up Kubernetes to troubleshooting containerization issues and configuring CI/CD pipelines. Each challenge taught me valuable troubleshooting skills and enriched my understanding of system configurations and optimizations.</p>
 
-<h2>Future Goals</h2>
-<p>Looking ahead, I am excited to expand my expertise in DevOps. My goals include:</p>
-<ul>
-    <li>Pursuing certifications like the <em>Kubernetes and Cloud Native Associate (KCNA)</em> to formally validate my skills.</li>
-    <li>Exploring advanced areas, such as monitoring and observability, service mesh integrations, and cloud-native security.</li>
-    <li>Contributing to open-source projects and actively engaging with the DevOps community to learn, share insights, and stay updated on industry trends.</li>
-</ul>
 
 <!-- BLOG-POST-LIST:END -->
 ---
