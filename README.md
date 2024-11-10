@@ -81,7 +81,7 @@
 
 
 <h2>======================================================================================================================</h2>
-# Blog Summaries
+<h2>Blog Summaries</h2>
 <h2>A Beginner’s Guide to K3s: Lightweight Kubernetes for Modern DevOps</h2>
 <p><strong>By Talha Ahmed</strong> | <em>4 min read - Oct 13, 2024</em></p>
 
