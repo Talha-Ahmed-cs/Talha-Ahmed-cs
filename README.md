@@ -90,5 +90,5 @@
 
 
 <p align="center">
-<a href="https://gist.github.com/Aleksey-Voko"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Aleksey-Voko :: Visitor's Count" /></a>
+<a href="https://gist.github.com/Talha-Ahmed-cs"><img src="https://profile-counter.glitch.me/{Aleksey-Voko}/count.svg" alt="Talha Ahmed :: Visitor's Count" /></a>
 </p>
