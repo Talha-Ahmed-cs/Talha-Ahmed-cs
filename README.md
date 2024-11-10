@@ -13,7 +13,7 @@
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I am student of FAST-NUCES Islamabad.
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
-- 💬 Talk to me about cricket, python (both of these are not any kind of insect or animals), Silicon Valley & startups
+- 💬 Talk to me about games, python and DevOps.
 - 👯 We can connect to play some games of Chess ♟
 - ⚡ Fun fact: Je connais un peu le français
 - 🧑‍💻 Tech I work on :
