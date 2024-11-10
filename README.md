@@ -56,13 +56,8 @@
 
 <ul>
     <li>
-        <strong>Deploying My Final Year Project with GitHub Actions</strong>
-        <p>One of my most rewarding experiences was deploying my final year project, <em>Detecting Hallucinations in Large Language Models (LLMs)</em>, using GitHub Actions. This project involved intricate machine learning workflows, which made a reliable CI/CD pipeline essential.</p>
+        <strong>Docker Compose Project with GitHub Actions</strong>
         <p>By using GitHub Actions, I could automate testing, leverage Docker for containerization, and deploy updates with ease, ultimately boosting both the project’s efficiency and reliability.</p>
-    </li>
-    <li>
-        <strong>Ongoing Project: Deploying a Web Application with GitHub Tools</strong>
-        <p>Currently, I am deploying a new web application with GitHub’s automation tools, further refining my understanding of deployment pipelines. This project is helping me strengthen my skills across the different stages of the DevOps lifecycle.</p>
     </li>
 </ul>
 
