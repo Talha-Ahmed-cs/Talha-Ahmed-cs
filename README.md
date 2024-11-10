@@ -85,7 +85,7 @@
 # Blog Summaries
 
 
-<h1>Virtualization and Containers Summary</h1>
+<h2>Blog1: Virtualization and Containers Summary</h2>
 
 <h2>What is Virtualization?</h2>
 <p><strong>Definition</strong>: Virtualization enables multiple operating systems to run on a single physical machine through an abstraction layer managed by a hypervisor.</p>
@@ -144,7 +144,7 @@
     </ul>
 
 
-<h2>A Beginner’s Guide to K3s: Lightweight Kubernetes for Modern DevOps</h2>
+<h2>Blog2: A Beginner’s Guide to K3s: Lightweight Kubernetes for Modern DevOps</h2>
 <p><strong>By Talha Ahmed</strong> | <em>4 min read - Oct 13, 2024</em></p>
 
 <h3>Introduction</h3>
