@@ -79,9 +79,9 @@
 <p>DevOps is inherently challenging, and I encountered numerous hurdles—from setting up Kubernetes to troubleshooting containerization issues and configuring CI/CD pipelines. Each challenge taught me valuable troubleshooting skills and enriched my understanding of system configurations and optimizations.</p>
 
 
-# Blog Summaries
 
-## Blog 2: **A Beginner’s Guide to K3s: Lightweight Kubernetes for Modern DevOps**
+<h2>======================================================================================================================</h2>
+# Blog Summaries
 <h2>A Beginner’s Guide to K3s: Lightweight Kubernetes for Modern DevOps</h2>
 <p><strong>By Talha Ahmed</strong> | <em>4 min read - Oct 13, 2024</em></p>
 
