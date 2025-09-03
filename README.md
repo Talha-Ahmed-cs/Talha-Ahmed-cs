@@ -52,10 +52,14 @@ This toolkit allows me to take features from development to production smoothly 
 
 ---
 
-###  📊 GitHub Stats
-![Talha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Talha-Ahmed-cs&show_icons=true&title_color=ffc857&icon_color=8ac926&text_color=daf7dc&bg_color=151515&hide=issues&count_private=true&include_all_commits=true)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Ahmed-cs&layout=compact&text_color=daf7dc&bg_color=151515&hide=css,html,php)](https://github.com/anuraghazra/github-readme-stats)  
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talha-Ahmed-cs&theme=dark)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+
+![Talha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Talha-Ahmed-cs&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Ahmed-cs&layout=compact&theme=tokyonight&hide=css,html,php)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talha-Ahmed-cs&theme=tokyonight)
+
 
 ---
 
