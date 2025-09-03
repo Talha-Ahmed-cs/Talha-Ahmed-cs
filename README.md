@@ -62,12 +62,11 @@ This toolkit allows me to take features from development to production smoothly 
 
 ###  ✍️ Blog Summaries
 
-#### [Containers vs Virtualization](https://medium.com/@i190713/what-is-virtualization-cbdc33fb4879)  
-Explains virtualization as an abstraction that lets multiple **VMs** run on one physical machine using a hypervisor (Type 1/Type 2). Highlights the benefits—strong isolation, multiple OS support, efficient hardware use—and introduces containers as lightweight alternatives sharing the host’s kernel. :contentReference[oaicite:0]{index=0}
-
 #### [A Beginner’s Guide to K3s: Lightweight Kubernetes for Modern DevOps](https://medium.com/@i190713/a-beginners-guide-to-k3s-lightweight-kubernetes-for-modern-devops-f809c36a4318)  
-Introduces **K3s**, a slimmed-down Kubernetes by Rancher Labs (<100 MB, single binary). Designed for edge, IoT, home labs, or low-resource environments using SQLite by default. Ideal for quick setups on Raspberry Pis, cloud VMs, or local dev. :contentReference[oaicite:1]{index=1}
+Introduces **K3s**, a slimmed-down Kubernetes by Rancher Labs (<100 MB, single binary). Designed for edge, IoT, home labs, or low-resource environments using SQLite by default. Ideal for quick setups on Raspberry Pis, cloud VMs, or local dev.
 
+#### [Containers vs Virtualization](https://medium.com/@i190713/what-is-virtualization-cbdc33fb4879)  
+Explains virtualization as an abstraction that lets multiple **VMs** run on one physical machine using a hypervisor (Type 1/Type 2). Highlights the benefits—strong isolation, multiple OS support, efficient hardware use—and introduces containers as lightweight alternatives sharing the host’s kernel.
 ---
 
 ###  💡 Favorite Quote
