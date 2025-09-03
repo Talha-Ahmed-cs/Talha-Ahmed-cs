@@ -58,9 +58,6 @@ This toolkit allows me to take features from development to production smoothly 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Talha-Ahmed-cs&layout=compact&theme=tokyonight&hide=css,html,php)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Talha-Ahmed-cs&theme=tokyonight)
-
-
 ---
 
 ###  ✍️ Blog Summaries
