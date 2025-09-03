@@ -8,7 +8,6 @@
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> About Me:
 - 🏦 I'm a Frontend Engineering.
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I am student of FAST-NUCES Islamabad.
 - 💻 I use daily: **.js**, **.java**, **.py**,  **.sql**
 - 💬 Talk to me about games, python and DevOps.
 - 👯 We can connect to play some games of Chess ♟
