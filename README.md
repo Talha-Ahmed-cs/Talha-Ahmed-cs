@@ -67,6 +67,7 @@ Introduces **K3s**, a slimmed-down Kubernetes by Rancher Labs (<100 MB, single b
 
 #### [Containers vs Virtualization](https://medium.com/@i190713/what-is-virtualization-cbdc33fb4879)  
 Explains virtualization as an abstraction that lets multiple **VMs** run on one physical machine using a hypervisor (Type 1/Type 2). Highlights the benefits—strong isolation, multiple OS support, efficient hardware use—and introduces containers as lightweight alternatives sharing the host’s kernel.
+
 ---
 
 ###  💡 Favorite Quote
